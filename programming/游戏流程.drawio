@@ -1,0 +1,106 @@
+<mxfile host="Electron" modified="2025-03-30T02:55:27.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="xwVwLVdl3FeiyXgvdB5X" version="24.0.4" type="device">
+  <diagram name="第 1 页" id="5cFpQkxjJ51Hh37OfoFz">
+    <mxGraphModel dx="875" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Wrzo2_woleVmErfOxot2-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wrzo2_woleVmErfOxot2-1" target="Wrzo2_woleVmErfOxot2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wrzo2_woleVmErfOxot2-1" value="开始游戏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wrzo2_woleVmErfOxot2-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wrzo2_woleVmErfOxot2-2" target="Wrzo2_woleVmErfOxot2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wrzo2_woleVmErfOxot2-2" value="构建初始列车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wrzo2_woleVmErfOxot2-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wrzo2_woleVmErfOxot2-3" target="Wrzo2_woleVmErfOxot2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wrzo2_woleVmErfOxot2-3" value="选择目的地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wrzo2_woleVmErfOxot2-4" value="一天开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wrzo2_woleVmErfOxot2-6" value="妖精行为模拟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wrzo2_woleVmErfOxot2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wrzo2_woleVmErfOxot2-9" target="Wrzo2_woleVmErfOxot2-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wrzo2_woleVmErfOxot2-9" value="一天结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wrzo2_woleVmErfOxot2-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wrzo2_woleVmErfOxot2-4" target="Wrzo2_woleVmErfOxot2-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="440" as="sourcePoint" />
+            <mxPoint x="410" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wrzo2_woleVmErfOxot2-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wrzo2_woleVmErfOxot2-4" target="Wrzo2_woleVmErfOxot2-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="440" as="sourcePoint" />
+            <mxPoint x="380" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wrzo2_woleVmErfOxot2-14" value="突发事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wrzo2_woleVmErfOxot2-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wrzo2_woleVmErfOxot2-6" target="Wrzo2_woleVmErfOxot2-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="560" as="sourcePoint" />
+            <mxPoint x="260" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wrzo2_woleVmErfOxot2-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wrzo2_woleVmErfOxot2-14" target="Wrzo2_woleVmErfOxot2-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="580" as="sourcePoint" />
+            <mxPoint x="430" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wrzo2_woleVmErfOxot2-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wrzo2_woleVmErfOxot2-19" target="Wrzo2_woleVmErfOxot2-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="670" as="sourcePoint" />
+            <mxPoint x="450" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="670" />
+              <mxPoint x="480" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wrzo2_woleVmErfOxot2-21" value="F" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Wrzo2_woleVmErfOxot2-18">
+          <mxGeometry x="-0.8407" y="-2" relative="1" as="geometry">
+            <mxPoint x="17" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wrzo2_woleVmErfOxot2-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wrzo2_woleVmErfOxot2-19" target="Wrzo2_woleVmErfOxot2-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wrzo2_woleVmErfOxot2-25" value="T" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Wrzo2_woleVmErfOxot2-24">
+          <mxGeometry x="-0.2333" y="-1" relative="1" as="geometry">
+            <mxPoint x="11" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wrzo2_woleVmErfOxot2-19" value="到达目的地" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wrzo2_woleVmErfOxot2-22" value="调整列车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wrzo2_woleVmErfOxot2-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wrzo2_woleVmErfOxot2-22" target="Wrzo2_woleVmErfOxot2-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="730" as="sourcePoint" />
+            <mxPoint x="160" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="770" />
+              <mxPoint x="120" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
