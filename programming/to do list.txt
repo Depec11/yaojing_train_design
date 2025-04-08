@@ -1,0 +1,12 @@
+font end and back end struct, including:
+	train manager
+	# upgrade manager
+	# compartment manager
+	# extension manager
+	# train manager, become back end
+	yaojing manager
+	to delete:
+		# old Train class
+		# old Upgrade Manager class
+		# old Compartment Manager class
+		# old Yaojing Manager class
