@@ -4,7 +4,11 @@ font end and back end struct, including:
 	# compartment manager
 	# extension manager
 	# train manager, become back end
-	yaojing manager
+	# yaojing manager
+	add extension -> not target
+	running to the station
+	the whole process
+	the economic system
 	to delete:
 		# old Train class
 		# old Upgrade Manager class
